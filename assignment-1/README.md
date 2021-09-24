@@ -16,7 +16,9 @@ Submitted by: Shivam Sharma
 
 ​		An artificial neuron works similarly. In an artificial neuron there are three main components.
 
-![1_EuHPHlcyI1jCXopnP1QbYg](https://github.com/shivams619/end3.0_assignments/blob/3d1014c793e9d8652594105796fc27ae294f867d/assignment-1/img/1_EuHPHlcyI1jCXopnP1QbYg.png)
+<p align="center">
+  <img src="https://github.com/shivams619/end3.0_assignments/blob/3d1014c793e9d8652594105796fc27ae294f867d/assignment-1/img/1_EuHPHlcyI1jCXopnP1QbYg.png" />
+</p>
 
 - **Input Signal**
 
@@ -36,7 +38,9 @@ Submitted by: Shivam Sharma
 
      **Answer**: Learning rate parameter controls how much the coefficients can change on each update. 
 
-![0_QwE8M4MupSdqA3M4](https://github.com/shivams619/end3.0_assignments/blob/3d1014c793e9d8652594105796fc27ae294f867d/assignment-1/img/0_QwE8M4MupSdqA3M4.png)
+<p align="center">
+  <img src="https://github.com/shivams619/end3.0_assignments/blob/3d1014c793e9d8652594105796fc27ae294f867d/assignment-1/img/0_QwE8M4MupSdqA3M4.png" />
+</p>
 
 ​		If the learning rate is very small then it will take the algorithm more time to converge on the global minima, However if the 		learning rate is big then it may miss the global minima & get stuck on a local minima.  
 

@@ -10,7 +10,9 @@ Submitted by: Shivam Sharma
 
    **Answer**: An artificial neuron or simply called unit is the building block of an artificial neural network. Working of artificial neuron is based on how a biological neuron works. A biological neuron accepts input signals via its dendrites, which pass the electrical signal down to the cell body.
 
-![1_9DRHyzHBQs2DTYA5Wd_leQ](https://github.com/shivams619/end3.0_assignments/blob/2cab01ad2118625c78265b53ed2953097555d298/assignment-1/img/1_9DRHyzHBQs2DTYA5Wd_leQ.png)
+<p align="center">
+  <img src="https://github.com/shivams619/end3.0_assignments/blob/2cab01ad2118625c78265b53ed2953097555d298/assignment-1/img/1_9DRHyzHBQs2DTYA5Wd_leQ.png" />
+</p>
 
 ​		An artificial neuron works similarly. In an artificial neuron there are three main components.
 

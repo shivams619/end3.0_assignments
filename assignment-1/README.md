@@ -50,7 +50,7 @@ Submitted by: Shivam Sharma
 
    **Answer:** Deterministic algorithms execute same steps on the same input data every time they run. While using the deterministic approach best, worst and average running time can be determined, however deterministic algorithms are not suitable for complex problems or they may take computationally impractical time while solving them.
 
-   An alternate is to use nondeterministic algorithms. These algorithms use elements of randomness when making decisions during the execution of the algorithm. This means that different order of steps will be executed every time they run on the same data. Randomness breaks symmetry and remove the bias giving a better likelihood of finding optimal solution.
+   An alternate is to use nondeterministic algorithms. These algorithms use elements of randomness when making decisions during the execution of the algorithm. This means that different order of steps will be executed every time they run on the same data. Randomness breaks symmetry and remove the bias giving a better likelihood of finding optimal solution. Weights are randomly initialized. 
 
    
 

@@ -69,5 +69,5 @@ Submitted by: Shivam Sharma
 
   <p>Backpropagation algorithm is used to effectively train a neural network using chain rule. In simple terms, after each forward pass through a network, backpropagation performs a backward pass while adjusting the model’s parameters (weights and biases). Backpropagation aims to minimize the cost function by adjusting network’s weights and biases.</p>
   <p>The derivative of a function C measures the sensitivity to change of the function value (output value) with respect to a change in its argument x (input value). The   derivative tells us the direction C is going. The gradient shows how much the parameter x needs to change (in positive or negative direction) to minimize C.
-Compute these gradients happen using chain rule. 
+Computing these gradients happen using chain rule. 
  

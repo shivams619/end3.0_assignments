@@ -42,7 +42,7 @@ Submitted by: Shivam Sharma
   <img src="https://github.com/shivams619/end3.0_assignments/blob/3d1014c793e9d8652594105796fc27ae294f867d/assignment-1/img/0_QwE8M4MupSdqA3M4.png" />
 </p>
 
-  ​		If the learning rate is very small then it will take the algorithm more time to converge on the global minima, However if the 		learning rate is big then it may miss the       global minima & get stuck on a local minima.  
+  ​		If the learning rate is very small then it will take the algorithm more time to converge on the global minima, However if the 		learning rate is big then it may miss the       global minima.
 
 
 
@@ -56,7 +56,7 @@ Submitted by: Shivam Sharma
 
 4. **What is "loss" in a neural network?**
 
-   **Answer:** Loss indicate how far an estimated value is from its true value. A loss function maps decisions to their associated costs. Loss functions are not fixed, they change depending on the task in hand and the goal to be met.
+   **Answer:** Loss indicate how far an estimated value is from its true value. A loss function maps decisions to their associated costs. Loss functions are not fixed, they can be changed depending on the task in hand and the goal to be met.
 
    
 
